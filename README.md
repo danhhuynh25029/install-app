@@ -1,1 +1,1 @@
-# autoinstall
+# install-app
